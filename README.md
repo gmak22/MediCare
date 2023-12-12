@@ -60,3 +60,8 @@ Styled-Components is a library for styling React components using tagged templat
 ```http
   GET https://medicare-final.onrender.com/doctors
 ```
+
+## Deployment
+
+### Vercel
+https://medicare-three.vercel.app
